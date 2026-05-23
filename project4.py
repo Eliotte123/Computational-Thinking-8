@@ -68,4 +68,6 @@ for i in range(1000000000):
     # m1.clear()
     # m1.write("Hello")
 
+    # The goal of the game is to purchase rockets. To get rockets, 
+    # you must press the space bar to generate aliens, and every time you purchase a rocket, the cost goes up by two.
     
